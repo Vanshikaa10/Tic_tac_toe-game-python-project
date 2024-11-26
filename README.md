@@ -1,1 +1,1 @@
-# Tic_tac_toe-game-python-project
+Tic Tac Toe is a two-player game played on a 3x3 grid. Players take turns marking a square on the grid with their symbol ('X' or 'O'). The goal is to get three of their symbols in a row, column, or diagonal before their opponent does.This Tic-Tac-Toe game uses HTML, CSS, JavaScript, and Flask to create a simple interactive game. 
